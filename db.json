@@ -4,5 +4,11 @@
     "message" : "AGE is GREATER",
     "verificationFailType" : "DOB",
     "KYC_COMMISSION" : "5.0"
-  } 
+  },
+  "otpLimitDetails": {
+    "title" : "otp limit reached",
+    "subtitle" : "Try after 30 mins"
+    "timer" : 400000,
+    "details" : "You have exceed OTP limit. please visit after sometime" 
+  },
 }
