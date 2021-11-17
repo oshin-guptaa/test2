@@ -2,6 +2,7 @@
   "kycRegistration" : {
     "status" : "KYC_FAILED",
     "message" : "AGE is GREATER",
-    "verificationFailType" : "DOB"
+    "verificationFailType" : "DOB",
+    "KYC_COMMISSION" : "5.0"
   } 
 }
