@@ -1,0 +1,7 @@
+{
+  "kycRegistration" : {
+    "status" : "KYC_FAILED",
+    "message" : "AGE is GREATER",
+    "verificationFailType" : "DOB"
+  } 
+}
