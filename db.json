@@ -1,11 +1,11 @@
 {
-  "kycRegistration" : {
+  "kycRegistration": {
     "status" : "KYC_FAILED",
     "message" : "AGE is GREATER",
     "verificationFailType" : "DOB",
     "KYC_COMMISSION" : "5.0"
   },
-  "otpLimitDetails" : {
+  "otpLimitDetails": {
     "title" : "otp limit reached",
     "subtitle" : "Try after 30 mins",
     "timer" : 400000,
