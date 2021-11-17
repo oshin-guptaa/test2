@@ -10,5 +10,5 @@
     "subtitle" : "Try after 30 mins"
     "timer" : 400000,
     "details" : "You have exceed OTP limit. please visit after sometime" 
-  },
+  }
 }
