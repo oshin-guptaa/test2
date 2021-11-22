@@ -8,7 +8,7 @@
    "otpLimitDetails":{
       "title":"otp limit reached",
       "subtitle":"Try after 30 mins",
-      "timer":400000,
+      "timer":20000,
       "detail":"You have exceed OTP limit.\n please visit after sometime"
    }
 }
