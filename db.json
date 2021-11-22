@@ -10,5 +10,10 @@
       "subtitle":"Try after 30 mins",
       "timer":20000,
       "detail":"You have exceed OTP limit.\n please visit after sometime"
+   },
+   "kycStatus":{
+      "isKycMandatory": true,
+      "kyc_status": "kycTrigger",
+      "kyc_message": "trigger kyc"
    }
 }
